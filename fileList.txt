@@ -1,0 +1,13 @@
+/storage/cgrp/atlas_hi/iakova/PhD/QualificationTask/user.jroloff.364700.MC16e_051219test_tree.root/tree_364700.root
+/storage/cgrp/atlas_hi/iakova/PhD/QualificationTask/user.jroloff.364701.MC16e_051219test_tree.root/tree_364701.root
+/storage/cgrp/atlas_hi/iakova/PhD/QualificationTask/user.jroloff.364702.MC16e_051219test_tree.root/tree_364702.root
+/storage/cgrp/atlas_hi/iakova/PhD/QualificationTask/user.jroloff.364703.MC16e_051219test_tree.root/tree_364703.root
+/storage/cgrp/atlas_hi/iakova/PhD/QualificationTask/user.jroloff.364704.MC16e_051219test_tree.root/tree_364704.root
+/storage/cgrp/atlas_hi/iakova/PhD/QualificationTask/user.jroloff.364705.MC16e_051219test_tree.root/tree_364705.root
+/storage/cgrp/atlas_hi/iakova/PhD/QualificationTask/user.jroloff.364706.MC16e_051219test_tree.root/tree_364706.root
+/storage/cgrp/atlas_hi/iakova/PhD/QualificationTask/user.jroloff.364707.MC16e_051219test_tree.root/tree_364707.root
+/storage/cgrp/atlas_hi/iakova/PhD/QualificationTask/user.jroloff.364708.MC16e_051219test_tree.root/tree_364708.root
+/storage/cgrp/atlas_hi/iakova/PhD/QualificationTask/user.jroloff.364709.MC16e_051219test_tree.root/tree_364709.root
+/storage/cgrp/atlas_hi/iakova/PhD/QualificationTask/user.jroloff.364710.MC16e_051219test_tree.root/tree_364710.root
+/storage/cgrp/atlas_hi/iakova/PhD/QualificationTask/user.jroloff.364711.MC16e_051219test_tree.root/tree_364711.root
+/storage/cgrp/atlas_hi/iakova/PhD/QualificationTask/user.jroloff.364712.MC16e_051219test_tree.root/tree_364712.root
